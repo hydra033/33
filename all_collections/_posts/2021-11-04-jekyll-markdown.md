@@ -7,19 +7,13 @@ categories: ["first post"]
 
 services:
 
-crypto trace and recovery
-scammer investigation and trace
-scam recovery
-trace a person
-monitor and hack a device
-change/replace academic results
-fullproof GPA alteration
+crypto trace and recovery\
+scammer investigation and trace\
+scam recovery\
+trace a person\
+monitor and hack a device\
+change/replace academic results\
+fullproof GPA alteration\
 custom jobs (tells us and we advise)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long.
-```
-
-```
-The final element.
 ```
