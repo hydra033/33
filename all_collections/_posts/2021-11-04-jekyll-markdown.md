@@ -15,5 +15,3 @@ monitor and hack a device\
 change/replace academic results\
 fullproof GPA alteration\
 custom jobs (tells us and we advise)
-
-```
