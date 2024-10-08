@@ -1,10 +1,10 @@
-title: Jekyll Serial Programmer
+title: ghost.hck.xyz
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: l3na and ranger
+  email: ghost.hck.xyz@proton.me
 
 plugins:
   - jemoji
