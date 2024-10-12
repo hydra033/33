@@ -14,4 +14,4 @@ trace a person\
 monitor and hack a device\
 change/replace academic results\
 fullproof GPA alteration\
-custom jobs (tells us and we advise)
+custom service (tell us and we advise)
